@@ -1,1 +1,29 @@
 /* CSS Entry Point */
+
+.app {
+	margin: auto;
+}
+
+.container {
+	background: #f0f0f0;
+	border: 2px solid #e2e2e2;
+	border-radius: 10px;
+	margin: 20px auto 20px auto;
+	width: 700px;
+}
+
+
+img {
+	height: 120px;
+	display: inline-block;
+	margin: 20px 20px 20px 20px;
+}
+
+h3 {
+	color: #aaaaaa;
+	display: inline-block;
+	font-size: 60px;
+	line-height: 160px;
+	margin: 0;
+	vertical-align: top;
+}
